@@ -1,0 +1,11 @@
+Best model: nb
+
+              precision    recall  f1-score   support
+
+    negative      1.000     1.000     1.000       470
+     neutral      1.000     1.000     1.000       399
+    positive      1.000     1.000     1.000       731
+
+    accuracy                          1.000      1600
+   macro avg      1.000     1.000     1.000      1600
+weighted avg      1.000     1.000     1.000      1600

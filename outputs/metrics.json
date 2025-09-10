@@ -1,0 +1,17 @@
+{
+  "models": {
+    "nb": {
+      "f1_macro": 1.0,
+      "report": "              precision    recall  f1-score   support\n\n    negative      1.000     1.000     1.000       470\n     neutral      1.000     1.000     1.000       399\n    positive      1.000     1.000     1.000       731\n\n    accuracy                          1.000      1600\n   macro avg      1.000     1.000     1.000      1600\nweighted avg      1.000     1.000     1.000      1600\n"
+    },
+    "logreg": {
+      "f1_macro": 1.0,
+      "report": "              precision    recall  f1-score   support\n\n    negative      1.000     1.000     1.000       470\n     neutral      1.000     1.000     1.000       399\n    positive      1.000     1.000     1.000       731\n\n    accuracy                          1.000      1600\n   macro avg      1.000     1.000     1.000      1600\nweighted avg      1.000     1.000     1.000      1600\n"
+    },
+    "rf": {
+      "f1_macro": 1.0,
+      "report": "              precision    recall  f1-score   support\n\n    negative      1.000     1.000     1.000       470\n     neutral      1.000     1.000     1.000       399\n    positive      1.000     1.000     1.000       731\n\n    accuracy                          1.000      1600\n   macro avg      1.000     1.000     1.000      1600\nweighted avg      1.000     1.000     1.000      1600\n"
+    }
+  },
+  "best_model": "nb"
+}
