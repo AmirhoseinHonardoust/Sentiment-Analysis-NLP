@@ -26,7 +26,6 @@ sentiment-analysis-nlp/
 ├─ README.md
 ├─ LICENSE
 ├─ requirements.txt
-├─ .gitignore
 ├─ data/
 │  └─ generate_reviews.py
 ├─ src/
